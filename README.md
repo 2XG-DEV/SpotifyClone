@@ -8,8 +8,11 @@ All other features are purely aesthetical , hope you like the playlist it featur
 
 
 I have used:
+
 reactJS for the interface
+
 material-ui/icons for the icons
+
 firebase for deployment
 
 
