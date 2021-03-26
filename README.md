@@ -1,3 +1,19 @@
+#Intro
+
+Check it out working at : https://spotifyclone-b9de3.firebaseapp.com/
+
+This is a spotify clone/remote I have made using the spotify api
+This app uses spotifyAPI for user authentication and then can be used as a remote to control a already playing device
+All other features are purely aesthetical , hope you like the playlist it features :) (you can only select a song from the playlist while another device/app is already playing) 
+
+
+I have used:
+reactJS for the interface
+material-ui/icons for the icons
+firebase for deployment
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
