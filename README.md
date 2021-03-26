@@ -1,6 +1,6 @@
 # Intro
 
-Check it out working at : https://spotifyclone-b9de3.firebaseapp.com/
+Check it out working at : https://spotifyclone-f0b71.web.app/
 
 This is a spotify clone/remote I have made using the spotify api
 
